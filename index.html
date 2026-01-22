@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kids Cars Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Kids Cars Portfolio</h1>
+  <p>Fun, Safe & Colorful Cars for Kids</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#cars">Cars</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About</h2>
+  <p>This portfolio website showcases different kids cars using HTML, CSS, and JavaScript.</p>
+</section>
+
+<section id="cars">
+  <h2>Our Cars</h2>
+  <div class="gallery">
+    <img src="images/car1.jpg" onclick="openModal(this.src)">
+    <img src="images/car2.jpg" onclick="openModal(this.src)">
+    <img src="images/car3.jpg" onclick="openModal(this.src)">
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <button onclick="showMessage()">Click Me</button>
+  <p id="msg"></p>
+</section>
+
+<!-- Modal -->
+<div id="modal" class="modal" onclick="closeModal()">
+  <img id="modalImg">
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
