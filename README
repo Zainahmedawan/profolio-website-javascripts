@@ -18,3 +18,153 @@ JavaScript interactivity, and image gallery modal.
 
 ## Live Website
 (Insert your GitHub Pages link here)
+# C# and .NET Software Development Portfolio
+
+## Overview
+
+This repository contains projects completed during my C# and .NET Software Development training. Throughout this course, I developed applications using C#, Object-Oriented Programming principles, Entity Framework, SQL Server, and ASP.NET MVC.
+
+These projects demonstrate my ability to design, develop, debug, and deploy software solutions using Microsoft technologies.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+* C#
+* SQL
+* HTML
+* CSS
+
+### Frameworks and Technologies
+
+* .NET Framework
+* ASP.NET MVC
+* Entity Framework 6
+* Entity Framework Code First
+* SQL Server
+* LINQ
+
+### Development Tools
+
+* Visual Studio 2022
+* Git
+* GitHub
+* SQL Server Management Studio
+
+### Software Development Concepts
+
+* Object-Oriented Programming (OOP)
+* Classes and Objects
+* Inheritance
+* Polymorphism
+* Interfaces
+* Exception Handling
+* Collections
+* Lambda Expressions
+* LINQ Queries
+* Database Design
+* MVC Architecture
+
+---
+
+# Projects
+
+## Student Database Application (Entity Framework Code First)
+
+### Description
+
+Created a Code First console application using Entity Framework that automatically generates a SQL database and stores student information.
+
+### Features
+
+* Code First Development
+* Automatic Database Creation
+* Student Record Management
+* SQL Server Integration
+
+### Technologies Used
+
+* C#
+* Entity Framework 6
+* SQL Server
+* Visual Studio 2022
+
+---
+
+## Car Insurance ASP.NET MVC Application
+
+### Description
+
+Developed an ASP.NET MVC web application that calculates insurance quotes based on customer information and stores records in a database.
+
+### Features
+
+* User Input Forms
+* Insurance Quote Calculations
+* Database Storage
+* Administrative View for Quotes
+* Entity Framework Integration
+
+### Technologies Used
+
+* ASP.NET MVC
+* C#
+* Entity Framework
+* SQL Server
+* HTML
+* CSS
+
+---
+
+## C# Console Applications
+
+### Description
+
+Completed multiple console applications demonstrating core C# programming concepts.
+
+### Topics Covered
+
+* Variables and Data Types
+* Methods
+* Classes
+* Constructors
+* Inheritance
+* Interfaces
+* Polymorphism
+* Exception Handling
+* File Input and Output
+* Lambda Expressions
+* LINQ
+
+### Technologies Used
+
+* C#
+* .NET Framework
+* Visual Studio 2022
+
+---
+
+# Learning Outcomes
+
+Through these projects I gained practical experience with:
+
+* Building object-oriented applications
+* Creating and managing databases
+* Developing web applications using ASP.NET MVC
+* Implementing Entity Framework Code First
+* Writing efficient C# code
+* Using Git and GitHub for version control
+* Debugging and testing software applications
+
+---
+
+# Author
+
+Nida Zain
+
+Software Development Student
+
+GitHub Profile:
+https://github.com/NidaZain
