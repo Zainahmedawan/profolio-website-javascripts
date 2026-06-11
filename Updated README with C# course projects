@@ -1,0 +1,58 @@
+# C# and .NET Projects Portfolio
+
+## Overview
+
+This repository contains projects completed during my C# and .NET Software Development coursework. These projects demonstrate my understanding of object-oriented programming, ASP.NET MVC, Entity Framework, database management, and software development best practices.
+
+## Projects Included
+
+### Car Insurance ASP.NET MVC Application
+
+A web application that generates insurance quotes based on customer information.
+
+#### Features
+
+* Customer quote generation
+* Quote calculation logic
+* Administrative quote management
+* Entity Framework database integration
+
+### Twenty One Game
+
+A console application that simulates a Blackjack card game.
+
+#### Features
+
+* Object-oriented design
+* Exception handling
+* Player management
+* Card deck operations
+
+### Employee Management System
+
+A C# application demonstrating CRUD operations and data management.
+
+## Technical Skills
+
+* C#
+* .NET Framework
+* ASP.NET MVC
+* Entity Framework
+* SQL Server
+* LINQ
+* Git and GitHub
+* Visual Studio
+* Object-Oriented Programming
+
+## Author
+
+Nida
+
+## GitHub Repository
+
+Add your repository URL here.
+
+## Portfolio Website
+
+Add your portfolio URL here.
+
