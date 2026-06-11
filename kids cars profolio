@@ -8,3 +8,34 @@ kids-cars-portfolio/
    ├── car1.jpg
    ├── car2.jpg
    ├── car3.jpg
+<h2>C# and .NET Projects</h2>
+
+<h3>Car Insurance MVC Application</h3>
+<p>
+Developed an ASP.NET MVC web application that calculates insurance quotes
+using customer information and stores data using Entity Framework and SQL Server.
+</p>
+
+<h3>Student Database Application</h3>
+<p>
+Created an Entity Framework Code First application that automatically
+generates a database and stores student records.
+</p>
+
+<h3>C# Console Applications</h3>
+<p>
+Completed multiple C# projects covering object-oriented programming,
+interfaces, inheritance, polymorphism, exception handling, LINQ,
+and file operations.
+</p>
+
+<h2>Technical Skills</h2>
+<ul>
+    <li>C#</li>
+    <li>.NET Framework</li>
+    <li>ASP.NET MVC</li>
+    <li>Entity Framework</li>
+    <li>SQL Server</li>
+    <li>Git & GitHub</li>
+    <li>Visual Studio 2022</li>
+</ul>
